@@ -42,7 +42,7 @@
             android:layout_width="314dp"
             android:layout_height="wrap_content"
             android:text="TextView"
-            android:textSize="34sp" />
+            android:textSize="24sp" />
 
         <EditText
             android:id="@+id/editTextTextPersonName"
